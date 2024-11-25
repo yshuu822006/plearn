@@ -44,7 +44,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 **Rohan Sai**
 
 - Email: [vaishnavipulegari@gmail.com](mailto:vaishnavipulegari@gmail.com)
-- LinkedIn: [Vaishnavi](https://www.linkedin.com/in/rohan-sai-446a02228/](https://www.linkedin.com/in/vaishnavi-pulegari-874682290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Vaishnavi](https://www.linkedin.com/in/vaishnavi-pulegari-874682290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## License
 
